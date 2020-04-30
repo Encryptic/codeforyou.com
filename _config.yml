@@ -28,6 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://codeforyou.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: encryptic
 github_username:  encryptic
+remote_theme: thelehhman/plainwhite-jekyll
 
 # Build settings
 theme: plainwhite
