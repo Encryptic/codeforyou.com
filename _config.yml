@@ -40,6 +40,10 @@ show_excerpts: true
 plainwhite:
   name: Chris Theberge
   tagline: Developer
+
+           Maker
+           
+           Tinkerer
   date_format: "%b %-d, %Y"
 
   social_links:
