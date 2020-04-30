@@ -31,9 +31,9 @@ github_username:  encryptic
 remote_theme: thelehhman/plainwhite-jekyll
 
 # Build settings
-theme: plainwhite
 plugins:
   - github-pages
+  - jekyll-remote-theme
   - jekyll-seo-tag
 
 show_excerpts: true
