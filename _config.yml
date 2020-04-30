@@ -26,14 +26,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://codeforyou.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: encryptic
+github_username:  encryptic
 
 # Build settings
 theme: plainwhite
 plugins:
-  - jekyll-feed
-  - jekyll-responsive-image
+  - github-pages
 
 show_excerpts: true
 
@@ -42,7 +41,7 @@ plainwhite:
   tagline: Developer
 
            Maker
-           
+
            Tinkerer
   date_format: "%b %-d, %Y"
 
