@@ -34,6 +34,7 @@ remote_theme: thelehhman/plainwhite-jekyll
 theme: plainwhite
 plugins:
   - github-pages
+  - jekyll-seo-tag
 
 show_excerpts: true
 

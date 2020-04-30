@@ -16,6 +16,7 @@ gem "plainwhite"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "github-pages", "~> 204"
+  gem "jekyll-seo-tag"
   gem "jekyll-feed"
 end
 
